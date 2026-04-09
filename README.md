@@ -26,20 +26,6 @@ I am a Geoscientist and Remote Sensing specialist based in Coimbra, Portugal. I 
 
 ---
 
-### 🚀 Featured Geospatial Projects
-
-#### [Precision Agriculture Dashboard using Zarr](https://github.com/migueldesousanc/Precision-Agriculture-Dashboard-using-Zarr-in-Alentejo-Portugal-)
-*Cloud-native analytical engine for farm management in Portugal.*
-- **Methodology:** Developed a Geospatial Data Fusion engine using Sentinel-2 and Copernicus DEM data.
-- **Key Feature:** Automated environmental runoff protections based on 3D terrain slope analysis.
-
-#### [Canopy Height Estimation for Bussaco Forest](https://github.com/migueldesousanc/Canopy-Height-Estimation-for-Bussaco-forest-in-Portugal/)
-*LiDAR-free 3D forest structure modeling using Vision Transformers.*
-- **Methodology:** Processed 2D satellite imagery through Meta's HighResCanopyHeight model.
-- **Key Feature:** Engineered peak-detection modules for "Giant Tree" mapping and Above-Ground Biomass estimation.
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=migueldesousanc&show_icons=true&theme=tokyonight" alt="Miguel's GitHub Stats" />
 </p>
